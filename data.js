@@ -361,7 +361,7 @@ const songsData = [
   },
   {
     "name": "Weird Fishes/Arpeggi",
-    "lyrics": "in the deepest ocean the bottom of the sea your eyes they turn me why should i stay here why should i stay  i'd be crazy not to follow follow where you lead your eyes they turn me turn me into phantoms way out i follow to the edge way out of the earth way out and fall off yeah everybody leaves way out if they get the chance way out and this way out is my chance  i get eaten by the worms and weird fishes picked over by the worms and weird fishes weird fishes weird fishes   yeah i i hit the bottom hit the bottom and escape escape i i hit the bottom hit the bottom and escape escape",
+    "lyrics": "in the deepest ocean the bottom of the sea your eyes they turn me why should i stay here why should i stay  i'd be crazy not to follow follow where you lead your eyes they turn me turn me into phantoms i follow to the edge of the earth and fall off yeah everybody leaves if they get the chance and this way out is my chance  i get eaten by the worms and weird fishes picked over by the worms and weird fishes weird fishes weird fishes   yeah i i hit the bottom hit the bottom and escape escape i i hit the bottom hit the bottom and escape escape",
     "album": "In Rainbows"
   },
   {
