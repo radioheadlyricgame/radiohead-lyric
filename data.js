@@ -391,7 +391,7 @@ const songsData = [
   },
   {
     "name": "Videotape",
-    "lyrics": "when i'm at the pearly gates this'll be on my videotape my videotape when mephistopheles is just beneath and he's reaching up to grab me this is one for the good days and i have it all here in red blue green in red blue green you are my centre when i spin away out of control on videotape on videotape on videotape on videotape on videotape on videotape on videotape  this is my way of saying goodbye because i can't do it face to face i'm talking to you before- no matter what happens now you shouldn't be afraid because i know today has been the most perfect day i've ever seen",
+    "lyrics": "when i'm at the pearly gates this'll be on my videotape my videotape when mephistopheles is just beneath and he's reaching up to grab me this is one for the good days and i have it all here in red blue green in red blue green you are my centre when i spin away out of control on videotape on videotape on videotape on videotape on videotape on videotape on videotape  this is my way of saying goodbye because i can't do it face to face i'm talking to you before no matter what happens now you shouldn't be afraid because i know today has been the most perfect day i've ever seen",
     "album": "In Rainbows"
   },
   {
